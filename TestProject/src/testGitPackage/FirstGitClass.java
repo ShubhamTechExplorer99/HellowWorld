@@ -7,6 +7,8 @@ public class FirstGitClass {
 		System.out.println("Git class");
 		
 		System.out.println("One more priting sms will be camed");
+		
+		System.out.println("Git add");
 	}
 
 }
